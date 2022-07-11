@@ -32,8 +32,13 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+<<<<<<< HEAD
 
 design:
+=======
+design:
+  # Choose a view for the listings:
+>>>>>>> fa5dde884354c3654fd6e0dc0901cf44caee7690
   view: citation
   columns: '2'
 ---

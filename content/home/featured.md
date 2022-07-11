@@ -32,5 +32,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
+<<<<<<< HEAD
   view: 2
+=======
+  view: 3
+>>>>>>> fa5dde884354c3654fd6e0dc0901cf44caee7690
 ---
