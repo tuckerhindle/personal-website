@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Tucker Hindle. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -91,9 +91,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: '2'
+    provider: 'mapbox'
     api_key: ''
-    zoom: 15
+    zoom: 17
 
 # Extensions
 

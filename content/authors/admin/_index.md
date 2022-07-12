@@ -12,7 +12,7 @@ highlight_name: true
 interests:
 - Spatial Data Science
 - Geographic Information Systems
-- Geomatics Engineering
+- Remote Sensing
 - Surveying & Mapping
 organizations:
 - name: Florida Atlantic University

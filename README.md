@@ -1,2 +1,2 @@
-# personal-website
-My personal website
+# [Tucker Hindle's Personal Website](https://tuckerhindle.netlify.app)
+tuckerhindle.netlify.app
