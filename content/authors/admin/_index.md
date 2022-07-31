@@ -38,10 +38,10 @@ superuser: true
 title: Tucker Hindle
 ---
 
-Currently, I coordinate aspects of the [Florida Atlantic University](https://www.fau.edu) (FAU) Lab Schools Research Program where I am an instructor for the _Multidisciplinary Research Methods_ course sequence, specializing in undergraduate research and mentoring.
+Currently, I coordinate aspects of the [Florida Atlantic University](https://www.fau.edu) (FAU) Lab Schools Research Program where I am an instructor for the _Multidisciplinary Research Methods_ courses, focusing on undergraduate research and mentoring.
 
-I gained industry experience at [AECOM](https://aecom.com) (Data Science & Analytics group) delivering geospatial data creation, editing, management, analysis, and map production as well as support for UAS (Drone) and GPS field data collection efforts. I utilized GIS software, Python and R programming to prepare deliverables for projects in transportation, water resources, environmental management, energy and communications infrastructure.
+I gained industry experience at [AECOM](https://aecom.com) (Data Science & Analytics group) providing geospatial data creation, editing, management, analysis, and map production as well as support for UAS and GNSS field data collection efforts. I utilized GIS software, Python and R programming to prepare deliverables for projects in transportation, water resources, environmental management, energy and communications infrastructure.
 
-I was fortunate to be advised by [Fred Bloetscher, PhD, PE](https://www.researchgate.net/profile/Frederick-Bloetscher) and [Hongbo Su, PhD, PSM](https://www.fau.edu/engineering/directory/faculty/su-h) while working as a GIS researcher for the [Center for Water Resiliency and Risk Reduction](https://www.fau.edu/engineering/research/cwr3/about) and [Laboratory for Remote Sensing and Hydrometeorology](http://faculty.eng.fau.edu/suh) at FAU. My thesis research focused on downscaling a GIS-based flood risk screening tool to support development of watershed-based flood protection plans across Florida.
+I was fortunate to be advised by [Fred Bloetscher, PhD, PE](https://www.researchgate.net/profile/Frederick-Bloetscher) and [Hongbo Su, PhD, PSM](https://www.fau.edu/engineering/directory/faculty/su-h) while working as a GIS researcher in the [Center for Water Resiliency and Risk Reduction](https://www.fau.edu/engineering/research/cwr3/about) and [Laboratory for Remote Sensing and Hydrometeorology](http://faculty.eng.fau.edu/suh) at FAU. My thesis research focused on downscaling a GIS-based flood risk screening tool to support development of watershed-based flood protection plans across Florida.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-tucker-hindle-202203.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-tucker-hindle-202208.pdf" "newtab" >}}CV{{< /staticref >}}.
