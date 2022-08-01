@@ -51,7 +51,7 @@ experience:
         * Utilized geographic information systems (GIS), Python and R programming to prepare deliverables for engineering projects in transportation, water resources, environmental management, energy and communications infrastructure.
 
   - title: Research Assistant
-    company: Center for Water Resiliency and Risk Reduction (Dr. Bloetscher) Laboratory for Remote Sensing and Hydrometeorology (Dr. Su)
+    company: Center for Water Resiliency and Risk Reduction (Dr. Bloetscher), Laboratory for Remote Sensing and Hydrometeorology (Dr. Su)
     company_url: 'https://www.fau.edu/engineering/cege/research'
     company_logo: 
     location: Boca Raton, Florida
