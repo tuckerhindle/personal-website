@@ -38,7 +38,7 @@ superuser: true
 title: Tucker Hindle
 ---
 
-Currently, I coordinate aspects of the [Florida Atlantic University](https://www.fau.edu) (FAU) Lab Schools Research Program where I am an instructor for the _Multidisciplinary Research Methods_ courses, focusing on undergraduate research and mentoring.
+Currently, I coordinate aspects of the [Florida Atlantic University](https://www.fau.edu) (FAU) Lab Schools Research Program where I am an instructor for the _Multidisciplinary Research Methods_ courses and focus on mentoring undergraduate research.
 
 I gained industry experience at [AECOM](https://aecom.com) (Data Science & Analytics group) providing geospatial data creation, editing, management, analysis, and map production as well as support for UAS and GNSS field data collection efforts. I utilized GIS software, Python and R programming to prepare deliverables for projects in transportation, water resources, environmental management, energy and communications infrastructure.
 

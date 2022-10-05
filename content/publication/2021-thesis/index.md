@@ -11,7 +11,7 @@ doi: ""
 featured: true
 
 image:
-  caption: 'Graphical Abstract'
+#  caption: 'Graphical Abstract'
   focal_point: ""
   preview_only: false
 
