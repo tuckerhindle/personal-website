@@ -10,14 +10,14 @@ education:
 email: "thindle2016@fau.edu"
 highlight_name: true
 interests:
-- Spatial Data Science
-- Geographic Information Systems
-- Remote Sensing
-- Surveying & Mapping
+- GIS, Spatial Data Science
+- Photogrammetry, Remote Sensing
+- Unmanned Aircraft Systems
+- Land Surveying, GNSS, LiDAR
 organizations:
 - name: Florida Atlantic University
   url: https://www.fau.edu
-role: Researcher
+role: Educator | Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,9 +38,9 @@ superuser: true
 title: Tucker Hindle
 ---
 
-Currently, I coordinate aspects of the [Florida Atlantic University](https://www.fau.edu) (FAU) Lab Schools Research Program where I am an instructor for the _Multidisciplinary Research Methods_ courses and focus on mentoring undergraduate research.
+Currently, I am an instructor for the _Multidisciplinary Research Methods_ course series and focus on mentoring undergraduate research at [Florida Atlantic University](https://www.fau.edu) (FAU). My research interests are geospatial data science and remote sensing image analysis.
 
-I gained industry experience at [AECOM](https://aecom.com) (Data Science & Analytics group) providing geospatial data creation, editing, management, analysis, and map production as well as support for UAS and GNSS field data collection efforts. I utilized GIS software, Python and R programming to prepare deliverables for projects in transportation, water resources, environmental management, energy and communications infrastructure.
+I gained industry experience as a GIS Analyst at [AECOM](https://aecom.com) in the Data Science & Analytics Group using ArcGIS Pro, Python and R programming on projects in transportation, water resources, environmental management, energy and communications infrastructure.
 
 I was fortunate to be advised by [Fred Bloetscher, PhD, PE](https://www.researchgate.net/profile/Frederick-Bloetscher) and [Hongbo Su, PhD, PSM](https://www.fau.edu/engineering/directory/faculty/su-h) while working as a GIS researcher in the [Center for Water Resiliency and Risk Reduction](https://www.fau.edu/engineering/research/cwr3/about) and [Laboratory for Remote Sensing and Hydrometeorology](http://faculty.eng.fau.edu/suh) at FAU. My thesis research focused on downscaling a GIS-based flood risk screening tool to support development of watershed-based flood protection plans across Florida.
 

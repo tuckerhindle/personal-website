@@ -61,8 +61,8 @@ experience:
         * Managed, analyzed, and modeled geospatial and hydrologic data using ArcGIS Pro.
         * Implemented ML techniques to model groundwater elevations using regression analysis and map impervious surfaces using multispectral image classification.
         * Integrated hydrologic-hydraulic (H&H) modeling with GIS to develop a screening tool capable of generating accurate probabilistic inundation maps quickly while still detecting localized nuisance-destructive flood potential.
-        * Prepared maps and technical reports to support the development of watershed-based flood protection plans across Florida ([CWR3](https://www.fau.edu/engineering/research/cwr3/clearinghouse)).
         * Assisted the City of Clewiston with advanced modeling tools for assessing stormwater risk and solutions to design a [NFIP CRS](https://www.fema.gov/floodplain-management/community-rating-system) plan for floodplain management.
+        * Prepared maps and technical reports to support the development of watershed-based flood protection plans across Florida ([CWR3](https://www.fau.edu/engineering/research/cwr3/clearinghouse)).
 
   - title: Undergraduate Research Fellow
     company: Harbor Branch Oceanographic Institute
