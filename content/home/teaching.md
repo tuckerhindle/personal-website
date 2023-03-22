@@ -31,7 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Courses Taught
-        * EDF 2910: Multidisciplinary Introduction to Research
+        * EDF 2911: Multidisciplinary Research Methods 1
+        * EDF 2910: Introduction to Research
+        <br><br>
+        The [Multidisciplinary Research Methods](https://canvas.fau.edu/courses/36616/pages/research-courses) course series connects undergraduates with faculty researchers, teaches primary literature search and analysis, and mentors students as they write grant proposals, present at conferences, and co-author publications. This unique program is offered to high school students.
 
   - title: GIS Instructor (affiliated with AECOM employment)
     company: Utilities Department, Town of Lake Clarke Shores, Florida

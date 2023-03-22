@@ -28,16 +28,16 @@ content:
   email: thindle2016@fau.edu
   phone: 561 569 6124
   address:
-    #street: 
+    street: 777 Glades Road
     city: Boca Raton
     region: Florida
-    #postcode: '33431'
+    postcode: '33431'
     country: United States
     country_code: US
   coordinates:
-    latitude: '26.3735'
-    longitude: '-80.0964'
-  #directions: Building 26 Room 92
+    latitude: '26.3747'
+    longitude: '-80.0962'
+  #directions: Building 26, Room 109
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'

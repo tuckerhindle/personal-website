@@ -20,5 +20,5 @@ main:
     url: '#contact'
     weight: 50
   - name: CV
-    url: uploads/cv-tucker-hindle-202208.pdf
+    url: uploads/cv-tucker-hindle.pdf
     weight: 60
