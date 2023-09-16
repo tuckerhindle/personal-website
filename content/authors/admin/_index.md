@@ -38,10 +38,6 @@ superuser: true
 title: Tucker Hindle
 ---
 
-Currently, I am an instructor for the _Multidisciplinary Research Methods_ course series and focus on mentoring undergraduate research at [Florida Atlantic University](https://www.fau.edu) (FAU). My research interests are geospatial data science and remote sensing image analysis.
+My expertise is in geographic information systems (GIS) and remote sensing with a focus on unmanned aerial vehicle (UAV)-based data acquisition and image analysis. Currently, I mentor FAU High School students engaged in undergraduate research at Florida Atlantic University and conduct my own research in watershed hydrology and airborne VNIR imaging spectroscopy. Prior to coming to academia, I gained industry experience in geospatial data science and analytics at AECOM while supporting projects for NASA, U.S. Air Force, U.S. Navy, Florida DOT, and local municipalities. My application of geospatial technologies focuses on transportation, water resources, environmental management, energy and communications infrastructure.
 
-I gained industry experience as a GIS Specialist at [AECOM](https://aecom.com) in the Data Science & Analytics Group using ArcGIS Pro, Python and R programming on projects in transportation, water resources, environmental management, energy and communications infrastructure.
-
-I was fortunate to be advised by [Fred Bloetscher, PhD, PE](https://www.researchgate.net/profile/Frederick-Bloetscher) and [Hongbo Su, PhD, PSM](https://www.fau.edu/engineering/directory/faculty/su-h) while working in the [Center for Water Resiliency and Risk Reduction](https://www.fau.edu/engineering/research/cwr3/about) and [Laboratory for Remote Sensing and Hydrometeorology](http://faculty.eng.fau.edu/suh) at FAU. My thesis research focused on downscaling a GIS-based flood risk screening tool to support development of watershed-based flood protection plans across Florida.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-tucker-hindle.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://docs.google.com/document/d/1RlqjEWf51doXms450a2jgR9OegVtNzHz4v84BNEjvu4/edit?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
